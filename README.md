@@ -1,1 +1,1 @@
-ComfyUI Workflows minus custom nodes.
+Custom ComfyUI Workflows/nodes.
