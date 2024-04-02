@@ -392,7 +392,7 @@
         "Node name for S&R": "CLIPTextEncode"
       },
       "widgets_values": [
-        "raw photo of a business man, brown hair, leaning against a cave wall"
+        "raw photo of a business person"
       ]
     },
     {
@@ -430,7 +430,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "jfk (4).jpg",
+        "img1.jpg",
         "image"
       ]
     }
